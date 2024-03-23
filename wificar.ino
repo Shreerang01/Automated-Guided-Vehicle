@@ -84,8 +84,8 @@ const char *htmlHomePage PROGMEM = R"HTMLHOMEPAGE(
   </head>
   <body class="noselect" align="center" style="background-color:white">
      
-    <h1 style="color: teal;text-align:center;">Hash Include Electronics</h1>
-    <h2 style="color: teal;text-align:center;">Wi-Fi &#128663; Control</h2>
+    <h1 style="color: teal;text-align:center;">Automated Guided Vehicle</h1>
+    <h2 style="color: teal;text-align:center;">Prototype - 1</h2>
     
     <table id="mainTable" style="width:400px;margin:auto;table-layout:fixed" CELLSPACING=10>
       <tr>
